@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Mission12_Blas.API.props" />
+</Project>

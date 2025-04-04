@@ -1,0 +1,6 @@
+@Mission11_Blas.API_HostAddress = http://localhost:5197
+
+GET {{Mission11_Blas.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
