@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mission12_Blas.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec9725f5a268b4f10fe5dee0268322bcf4d8b98d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mission12_Blas.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mission12_Blas.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

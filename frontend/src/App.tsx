@@ -1,7 +1,7 @@
 import './App.css'
 import { CartProvider } from './context/CartContext';
 import CartPage from './pages/CartPage';
-import PricePage from './pages/PricePage';
+import DonatePage from './pages/DonatePage.tsx';
 import BooksPage from './pages/BooksPage';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
@@ -12,11 +12,11 @@ function App() {
         <Router>
           <Routes>
             <Route path="/" element={<BooksPage />} />
-            <Route path="/projects" element={<BooksPage />} />
+            <Route path="/books" element={<BooksPage />} />
             <Route
-              path="/donate/:projectName/:projectId"
-              element={<PricePage />}
-            />
+              path="/donate/:title/:price/:bookID"
+              element={<DonatePage />}
+              />
             <Route path="/cart" element={<CartPage />} />
           </Routes>
         </Router>

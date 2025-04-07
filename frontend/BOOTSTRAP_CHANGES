@@ -1,0 +1,5 @@
+For the TA's. If you see the BookList.tsx file, you'll see comments for the bootstrap changes I've made. They consist of the following:
+
+Grid fit. 
+Stylized button for cart button. 
+Fun color for the next and previous buttons at the bottom. 

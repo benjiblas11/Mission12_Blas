@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|solutionrelative:data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|solutionrelative:data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|solutionrelative:data\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission11_Blas.API.csproj|solutionrelative:data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|c:\\users\\benji\\onedrive\\documents\\is core semester 2\\is 413\\programs\\mission12_blas\\backend\\mission12_blas.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D1FC43C-CBAC-45BF-847A-C6CB9C18FCB3}|Mission12_Blas.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,7 +44,7 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,73 +59,77 @@
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-02T07:10:55.381Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BookController.cs",
               "DocumentMoniker": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
               "ToolTip": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Controllers\\BookController.cs",
               "RelativeToolTip": "Controllers\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T05:03:51.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T04:52:31.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "BookDbContext.cs",
               "DocumentMoniker": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Data\\BookDbContext.cs",
               "RelativeDocumentMoniker": "Data\\BookDbContext.cs",
               "ToolTip": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Data\\BookDbContext.cs",
               "RelativeToolTip": "Data\\BookDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T04:37:51.786Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Data\\Book.cs",
               "RelativeDocumentMoniker": "Data\\Book.cs",
               "ToolTip": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\Data\\Book.cs",
               "RelativeToolTip": "Data\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T04:32:47.397Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\benji\\OneDrive\\Documents\\IS CORE SEMESTER 2\\IS 413\\Programs\\Mission12_Blas\\backend\\Mission12_Blas.API\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -133,8 +137,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-02T04:29:16.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T04:29:16.509Z"
             },
             {
               "$type": "Bookmark",

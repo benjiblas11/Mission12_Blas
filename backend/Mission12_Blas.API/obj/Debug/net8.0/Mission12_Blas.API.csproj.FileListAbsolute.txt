@@ -68,3 +68,4 @@ C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Mission12_B
 C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Mission12_Blas\backend\Mission12_Blas.API\obj\Debug\net8.0\Mission12_Blas.API.pdb
 C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Mission12_Blas\backend\Mission12_Blas.API\obj\Debug\net8.0\Mission12_Blas.API.genruntimeconfig.cache
 C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Mission12_Blas\backend\Mission12_Blas.API\obj\Debug\net8.0\ref\Mission12_Blas.API.dll
+C:\Users\benji\OneDrive\Documents\IS CORE SEMESTER 2\IS 413\Programs\Mission12_Blas\backend\Mission12_Blas.API\obj\Debug\net8.0\Mission12_Blas.API.sourcelink.json
